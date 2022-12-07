@@ -11,3 +11,6 @@ Step 2. After you have installed the program, go to the folder "C:\Program Files
 Step 3. And finally copy "CCleaner.dat" and put it in the folder with the program "C:\Program Files\CCleaner".
 
 Ready! Now you can enjoy the professional version for free! 
+
+
+![Image alt](https://github.com/LesleyH1/CCleaner-Professional-Edition-v5.65.7632/blob/main/1.png)
