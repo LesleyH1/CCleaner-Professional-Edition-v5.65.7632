@@ -4,7 +4,7 @@ CCleaner a utility for cleaning the debris in the operating system. In the cours
 
 Install.
 
-Step 1. Extract from the archive file "CCleaner_Professional_Edition_v5.65.7632.exe" and install it. During installation, disable autorun. 
+Step 1. Run the file "CCleaner_Professional_Edition_v5.65.7632.exe" and install it. During installation, disable autorun. 
 
 Step 2. After you have installed the program, go to the folder "C:\Program Files\CCleaner" and delete the file "CCUpdate.exe". 
 
